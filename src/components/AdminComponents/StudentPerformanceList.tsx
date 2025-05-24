@@ -225,7 +225,7 @@ const StudentPerformanceList = () => {
     <div className="space-y-4">
       <div className="flex flex-col sm:flex-row justify-between items-center gap-3 mb-4">
         <div className="flex items-center">
-          <h3 className="text-xl font-semibold mr-2">Student Performance Rankings</h3>
+          <h3 className="text-xl font-semibold mr-2">Student Performance Ranking</h3>
           <Button variant="ghost" size="sm" onClick={handleRefresh} disabled={isRefreshing}>
             <RefreshCw className={`h-4 w-4 ${isRefreshing ? 'animate-spin' : ''}`} />
             <span className="sr-only">Refresh data</span>
