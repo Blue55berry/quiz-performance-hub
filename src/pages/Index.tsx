@@ -18,10 +18,10 @@ const Index = () => {
       <main className="flex-1 flex flex-col items-center justify-center p-4">
         <div className="max-w-4xl w-full mx-auto animate-fade-in text-center mb-10">
           <h1 className="text-4xl font-bold text-gray-900 mb-2">
-            SASP
+           Student Assessment Selection Portal
           </h1>
           <p className="text-xl text-gray-600">
-            Student Assessment Selection Portal
+           Learning is not filling a vessel but lighting a fire.
           </p>
         </div>
         
